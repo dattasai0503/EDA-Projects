@@ -83,8 +83,10 @@ Certain cuisines are more popular in specific locations.
 - Development Environment: Jupyter Notebook
 ## Outputs and observations
 
-![pie chart for top 3 countries](<img width="278" alt="Image" src="https://github.com/user-attachments/assets/088aa147-60e2-41e2-bf75-18c1ea1d073c" />)
+pie chart for top 3 countries
+![Image](<img width="278" alt="Image" src="https://github.com/user-attachments/assets/088aa147-60e2-41e2-bf75-18c1ea1d073c" />)
 
-![No of Transcations](![Image](https://github.com/user-attachments/assets/b603408e-2b30-4d2b-9cec-6709de19bf60))
+![No of Transcations]![Image](https://github.com/user-attachments/assets/b603408e-2b30-4d2b-9cec-6709de19bf60)
 
-![Aggregate Rating](![Image](https://github.com/user-attachments/assets/572982bf-9904-4a55-be88-7a9d8c0f8b05))
+
+![Aggregate Rating](https://github.com/dattasai0503/EDA-Projects/blob/main/Zomato%20Data%20Analysis/Output%20Screenshots/Aggregate%20Rating.png)
