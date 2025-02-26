@@ -59,13 +59,6 @@ This project aims to analyze the Zomato dataset using Exploratory Data Analysis 
 
 - Insights & Conclusion: Summarize key observations and recommendations.
 
-## Tools & Technologies
-
-- Programming Language: Python
-
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn
-
-- Development Environment: Jupyter Notebook
 
 ## Key Insights
 
@@ -76,3 +69,22 @@ Certain cuisines are more popular in specific locations.
 - Online delivery services have a significant impact on customer preferences.
 
 - Ratings are influenced by the number of votes a restaurant receives.
+
+## Dataset Description
+![Dataset](<img width="451" alt="Image" src="https://github.com/user-attachments/assets/ad8cec9b-1753-43d4-8d20-14772b191a7d" />)
+
+![Dataset Description](<img width="417" alt="Image" src="https://github.com/user-attachments/assets/91401bb5-46d4-4276-b633-d040771a8340" />)
+## Tools & Technologies
+
+- Programming Language: Python
+
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+- Development Environment: Jupyter Notebook
+## Outputs and observations
+
+![pie chart for top 3 countries](<img width="278" alt="Image" src="https://github.com/user-attachments/assets/088aa147-60e2-41e2-bf75-18c1ea1d073c" />)
+
+![No of Transcations](![Image](https://github.com/user-attachments/assets/b603408e-2b30-4d2b-9cec-6709de19bf60))
+
+![Aggregate Rating](![Image](https://github.com/user-attachments/assets/572982bf-9904-4a55-be88-7a9d8c0f8b05))
