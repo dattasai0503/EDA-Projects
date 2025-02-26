@@ -1,0 +1,3 @@
+EDA Used cars data set project
+
+7254 rows* 14 colums
